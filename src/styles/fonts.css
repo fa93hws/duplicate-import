@@ -1,0 +1,6 @@
+@import './font_a.css';
+
+.fontC {
+  composes: fontB from './font_b.css';
+  font-size: 22;
+}

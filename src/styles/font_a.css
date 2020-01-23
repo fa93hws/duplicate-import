@@ -1,0 +1,5 @@
+
+.notRelevant {
+  composes: baseFont from './font_base.css';
+  color: blue;
+}

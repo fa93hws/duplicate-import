@@ -1,0 +1,4 @@
+.fontB {
+  composes: baseFont from './font_base.css';
+  color: green;
+}
