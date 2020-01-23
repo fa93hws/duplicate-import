@@ -1,5 +1,9 @@
+:global(.globalFontA) {
+  font-size: 20px;
+  font-weight: 1000;
+}
 
-.notRelevant {
+.fontA {
   composes: baseFont from './font_base.css';
   color: blue;
 }

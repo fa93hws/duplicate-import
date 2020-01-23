@@ -1,5 +1,4 @@
-import styles from './styles/fonts.css';
+// This is used for build a preload assets.
+import './styles/preload_font.css';
 
-console.log(styles)
-const textElement = document.getElementById('text');
-textElement.className = styles.fontC;
+// Some other code that's not relevant

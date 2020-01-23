@@ -1,3 +1,7 @@
+:global(.globalFontB) {
+  font-size: 20px;
+}
+
 .fontB {
   composes: baseFont from './font_base.css';
   color: green;
